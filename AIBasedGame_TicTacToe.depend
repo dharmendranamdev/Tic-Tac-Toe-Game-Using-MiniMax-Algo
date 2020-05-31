@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586720636 source:f:\mca@4thsem\ai\assignmentai\aibasedgame_tictactoe\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
